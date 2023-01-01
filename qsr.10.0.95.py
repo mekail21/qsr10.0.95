@@ -1,4 +1,6 @@
 #coding = utf-8
+#thanks alot jani hamza
+#script share by qsr #Qaiser
 from uuid import uuid4
 import requests
 import os,sys,tempfile,string,random,subprocess,uuid
